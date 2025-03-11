@@ -5,10 +5,13 @@ body {
   align-items: center;
   justify-content: center;
   background-color: lavender;
-  color: rgb(37, 37, 75);
+  color: whitesmoke;
   font-family: cursive;
-  font-weight: bold;
-  font-size: 30px;
-  font-style: italic;
+  letter-spacing: 2px;
+  font-size: 20px;
   text-transform: uppercase;
+  background-image: url("it.jpg");
+  background-position: center;
+  background-size: 700px;
+  background-repeat: no-repeat;
 }
